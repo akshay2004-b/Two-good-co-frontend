@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Twogood Clone
 
 A responsive clone of Two Good created using HTML, CSS, JavaScript, GSAP, ScrollTrigger, and Locomotive.
